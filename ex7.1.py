@@ -14,3 +14,4 @@ for nr in list:
     if nr not in list1:     
         list1.append(nr)
 print(list1)
+print(list1)
